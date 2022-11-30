@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 echo $HOME
+=======
+#!/bin/bash
+cd
+>>>>>>> 90360fd978c3e2b16a29bb2107ebdd1a0e928239
