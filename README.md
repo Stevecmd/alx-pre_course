@@ -1,3 +1,2 @@
-My first readme
-Updating the readme via the web interface.
-Another update.
+My first readme using the ALX webterm.
+Updating the readme via the webterm.
